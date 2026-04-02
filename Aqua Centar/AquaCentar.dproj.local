@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/12/24 13:30:17.000.601,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/12/24 14:05:09.000.843,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Projekat.fmx=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2025/12/24 14:05:09.000.843,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Projekat.pas=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/12/24 14:05:39.000.076,C:\Users\pc\Documents\Embarcadero\Studio\Projects\AquaCentar.dproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2026/02/05 03:22:03.000.510,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026/02/05 04:33:33.000.017,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/03/16 22:44:57.000.367,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/03/16 22:49:11.000.032,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2026/03/16 22:49:46.000.554,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/03/19 07:26:57.000.753,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit3.pas=</Transaction>
+    <Transaction>2026/03/25 19:55:29.000.387,D:\Aqua Centar 3\Projekat.pas=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Projekat.pas</Transaction>
+    <Transaction>2026/03/25 19:55:29.000.387,D:\Aqua Centar 3\Projekat.fmx=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Projekat.fmx</Transaction>
+    <Transaction>2026/03/25 19:55:51.000.484,D:\Aqua Centar 3\Unit2.pas=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026/03/25 19:55:51.000.484,D:\Aqua Centar 3\Unit2.dfm=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2026/03/26 05:48:15.000.400,C:\Users\pc\Documents\Embarcadero\Studio\Projects\AquaCentar.dproj=D:\Aqua Centar 3\AquaCentar.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
